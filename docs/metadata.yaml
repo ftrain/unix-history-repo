@@ -1,0 +1,24 @@
+---
+title: "The Genesis of Unix: A Complete Technical Reference to PDP-7 Unix"
+subtitle: "An Encyclopedic Guide to the Birth of Modern Operating Systems"
+author:
+  - Claude (AI Assistant)
+  - Based on the work of Ken Thompson and Dennis Ritchie
+date: November 2025
+lang: en-US
+documentclass: book
+papersize: letter
+fontsize: 11pt
+geometry:
+  - margin=1in
+toc: true
+toc-depth: 3
+lof: true
+lot: true
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+links-as-notes: true
+numbersections: true
+secnumdepth: 3
+---

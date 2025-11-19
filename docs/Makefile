@@ -16,16 +16,13 @@ CHAPTERS = \
 	chapters/02-hardware.md \
 	chapters/03-assembly.md \
 	chapters/04-architecture.md \
-	chapters/05-kernel.md \
-	chapters/06-boot-initialization.md \
-	chapters/07-filesystem.md \
-	chapters/08-process-management.md \
-	chapters/09-device-drivers.md \
-	chapters/10-development-tools.md \
-	chapters/11-user-utilities.md \
-	chapters/12-b-language.md \
-	chapters/13-evolution.md \
-	chapters/14-legacy.md
+	chapters/05-boot-initialization.md \
+	chapters/06-filesystem.md \
+	chapters/07-process-management.md \
+	chapters/08-development-tools.md \
+	chapters/09-user-utilities.md \
+	chapters/10-b-language.md \
+	chapters/11-legacy.md
 
 APPENDICES = \
 	appendices/a-instruction-reference.md \
